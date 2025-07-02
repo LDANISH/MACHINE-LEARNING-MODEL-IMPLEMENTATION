@@ -29,7 +29,9 @@ Source: UCI Machine Learning Repository or Kaggle
 Format: CSV file containing two columns:
 label: spam or ham
 
-##OUTPUT
+##OUTPUT  
+
+![Image](https://github.com/user-attachments/assets/88302fbd-a6e3-4956-a219-e738b0d43db1)
 
 
 
